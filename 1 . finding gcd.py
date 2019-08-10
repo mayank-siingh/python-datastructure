@@ -26,5 +26,5 @@ def gcd(a,b,c):
 			if m in list3:
 				list.append(m)
 	print(max(list))
-gcd(210,42,63)
+gcd(210,42,63)#this can contain any random value for evaluation
 			
